@@ -1,0 +1,514 @@
+/* Index */ 
+@import url("https:fonts.googlepis.com/css?family=Ruda: 400, 700|Syncopate: 400");
+
+body{
+    background-color: #84A873;
+}
+
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+.homepage-iteration-3 {
+    background-color: #84A873;
+    display: flex;
+    height: 832px;
+    padding: 70px 59px;
+    width: 1280px;
+}
+.background1 {
+    align-items: center;
+    height: 400px;
+    justify-content: center;
+    min-width: 1162px;
+    padding: 114px 19px;
+    margin-top: 30px;
+    gap: 66px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.homepage-iteration-2 .overlap {
+    background-color: #Ffffff;
+    display: flex;
+}
+.flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 6px;
+    min-height: 403px;
+    width: 589px;
+}
+p.kasandraf {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 76px;
+    width: 507px;
+}
+
+.smedia {
+    display: inline-block;
+}
+.socials {
+    display: inline-block;
+    height: 24px;
+    margin-left: 13px;
+    margin-top: 40px;
+    padding-right: 15px;
+    width: auto;
+}
+.empathy-in-every-cl {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 15px;
+    min-height: 156px;
+    width: 576px;
+}
+.primary-nav {
+    display: inline-block;
+    margin-top: 44px;
+    min-width: auto;
+}
+.primary-nav a{
+    align-items: flex-end;
+    text-align: center;
+    border: 2px solid;
+    border-color: #84A873;
+    border-radius: 20px;
+    height: 48px;
+    line-height: 48px;
+    justify-content: flex-end;
+    margin-left: 20px;
+    min-width: 50px;
+    padding: 1px 9px;
+    color: black;
+    text-decoration: none;
+}
+.link {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 34px;
+    width: 93px;
+}
+.work {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 34px;
+    width: 45px;
+}
+.place {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 34px;
+    width: 83px;
+}
+.kasHEIC {
+    height: 450px;
+  
+    width: auto;
+}
+.primary-nav a:hover{
+    background-color: #84A873;
+    color: white;
+}
+
+/* About Me */ 
+.homepage-iteration-3 {
+    background-color: #84A873;
+    display: flex;
+    height: 832px;
+    padding: 70px 59px;
+    width: 1280px;
+}
+.navbar {
+    position: absolute;
+    top: 50px;
+    right: 177px;
+}
+.navbar a {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    display: inline-block;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.homepage-iteration-3 .overlap {
+    background-color: #Ffffff;
+    height: 691px;;
+    display: flex;
+    flex-direction: column;
+}
+
+.overlap2{
+    background-color: #Ffffff;
+    height: 1200px;
+}
+.background {
+    align-items: center;
+    
+    justify-content: center;
+    min-width: 1162px;
+    padding: 114px 19px;
+    margin-top: 20px;
+}
+.title {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    display: flex;
+    line-height: normal;
+    white-space: nowrap;
+    padding-left: 30px;
+}
+.aboutme {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    left: 74px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 282px;
+    width: 782px;
+    height: 15px;
+    text-align: left;
+    padding-left: 30px;
+}
+.ellipse-1 {
+    background-color: #46905b;
+    border-radius: 8px/6.5px;
+    padding-left: 10px;
+    margin-top: 23px;
+    height: 13px;
+    display: flex;
+    width: 16px;
+}
+.titlecontainers {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    margin-top: -360px;
+    padding-bottom: 100px;
+}
+
+.smedia {
+    display: inline-block;
+    height: 24px;
+    margin-left: 13px;
+    padding-right: 15px;
+    width: auto;
+    right: 50px;
+}
+.card-text {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+}
+.MySkills {
+    color: black;
+    font-family: 'Ruda', sans-serif;
+    float: left;
+    margin-bottom: 54px;
+    align-self: flex-start;
+}
+
+
+
+/* Work */ 
+.titlecontainer {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    margin-left: 50px;
+    position: relative;
+}
+.projectContainer{
+    display: flex;
+}
+
+.project1 {
+align-items: center;
+letter-spacing: 0;
+line-height: normal;
+margin-left: 112px;
+margin-top: 10px;
+min-height: 53px;
+width: 240px;
+}
+.Gourmade {
+    height: 287px;
+    left: 726px;
+    width: 391px;
+    object-fit: cover;
+    gap: 80px;
+    text-decoration: none;
+}
+.grdc2-1 {
+    height: 287px;
+    left: 726px;
+    object-fit: cover;
+    top: 44px;
+    width: 391px;
+    border: 2px solid;
+    border-color: black;
+    text-decoration: none;
+}
+.rectangle-11 {
+    background-color: #Ffffff;
+    border: 2px solid;
+    border-color: black;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.portfolio .rectangle {
+    cursor: pointer;
+    height: 376px;
+    width: 398px;
+}
+
+.projectContainer h2{
+    color: olivedrab;
+}
+.smedia {
+    display: inline-block;
+    height: 24px;
+    padding-right: 15px;
+    width: auto;
+    right: 50px;
+}
+.ProtoPersona {
+    align-items: center;
+}
+.GirlsRock {
+    align-items: center;
+}
+.UserPersona1 {
+    align-items: center;
+}
+.UserPersona2 {
+    align-items: center;
+}
+.ValueProp {
+    align-items: center;
+}
+.UserSc {
+    align-items: center;
+}
+.Storybaord {
+    align-items: center;
+}
+.Sitekey {
+    align-items: center;
+}
+.grcs {
+    align-items: center;
+    color: black;
+    font-family: 'Ruda', sans-serif;
+
+}
+/* Contact */ 
+.conactcontainer {
+    margin-top: 20px;
+}
+.name {
+    font-family: 'Ruda', sans-serif;
+}
+.email {
+    font-family: 'Ruda', sans-serif;
+}
+.message {
+    height: 35px;
+}
+input[type=text], select {
+    font-family: 'Ruda', sans-serif;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  input[type=submit] {
+    font-family: 'Ruda', sans-serif;
+    width: 100%;
+    background-color: #46905b;
+    color: #B4D3A6;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 100%;  
+  }
+  
+  input[type=submit]:hover {
+    font-family: 'Ruda', sans-serif;
+    background-color: #AFD69D;
+    color: white
+  }
+
+  input[type=submit]:active:focus {
+    background-color: #AFD69D;
+    color: white
+  }
+
+  .btn-primary:active:focus{
+    background-color: #AFD69D;
+    color: white;
+    border-color: white;
+  }
+
+  
+
+/* Gourmade */ 
+.GourmadeCS {
+    display: flexbox;
+    font-family: 'Ruda', sans-serif;
+    color: black;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
+.textGourmade{
+   margin-top: 50px;
+}
+
+.backgroundGourmade{
+
+    padding-top: 50px;
+    margin-top: 20px;
+}
+.back-top {
+    padding: 30px;
+}
+.fixed-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    Left: 0;
+    z-index: 1030;
+}
+.back-top img {
+    transform: rotate(180deg);
+}
+
+.myAccordion{
+    display:flex;
+    flex-direction: column;
+}
+
+
+
+/* Test */
+.overlap2{
+    background-color: #Ffffff;
+    height: 9150px; 
+}
+.cardcontainer {
+    display:flex;
+    margin-top: 50px;
+    flex-direction: row;
+}
+.card {
+    font-family: 'Ruda', sans-serif;
+    background-color: white;
+    align-items: center;
+    margin-right: 10px;
+}
+.btn-primary {
+    font-family: 'Ruda', sans-serif;
+    border-radius: 20px;
+    background-color: #46905b;
+    border-color: #ccc;
+    color: white;
+}
+.btn-primary:hover{
+    background-color: #84A873;
+    color: white;
+    border-color: #ccc;;
+}
+.card-body {
+    text-align: center;
+}
+
+.accordion {
+    color: black;
+}
+.accordion-header {
+    color: black;
+}
+.accordion-button {
+        color: black;
+}
+ 
+  .header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: #f1f1f1;
+  }
+  
+  .header h2 {
+    text-align: center;
+  }
+  
+  .progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc;
+  }
+  
+  .progress-bar {
+    height: 8px;
+    background: #3baa04;
+    width: 0%;
+  }
+  
+  .content {
+    padding: 100px 0;
+    margin: 50px auto 0 auto;
+    width: 80%;
+  }
+
+/* GirlsRockDC */ 
+.casestudy {
+    justify-content: left;
+    letter-spacing: 0;
+    font-family: 'Ruda', sans-serif;
+    font-size: small;
+    margin-left: 80px;
+}
+
+.backgroundGRDC{
+
+    padding-top: 50px;
+    margin-top: 20px;
+}
+.ProtoPersona {
+    justify-content: center;
+}
+.girlsrock {
+    vertical-align: middle;
+}
+.overlap3{
+    background-color: #Ffffff;
+    height: 4150px;
+     
+}
