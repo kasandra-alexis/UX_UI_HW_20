@@ -179,12 +179,8 @@ p.kasandraf {
 .aboutme {
     color: black;
     font-family: 'Ruda', sans-serif;
-    left: 74px;
+    
     letter-spacing: 0;
-    position: absolute;
-    top: 282px;
-    width: 782px;
-    height: 15px;
     text-align: left;
     padding-left: 30px;
 }
@@ -201,8 +197,7 @@ p.kasandraf {
     display: flex;
     flex-direction: row;
     align-self: flex-start;
-    margin-top: -360px;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
 }
 
 .smedia {
@@ -223,6 +218,8 @@ p.kasandraf {
     float: left;
     margin-bottom: 54px;
     align-self: flex-start;
+    margin-left: 25px;
+    margin-top: 40px;
 }
 
 
@@ -412,6 +409,9 @@ input[type=text], select {
     display:flex;
     flex-direction: column;
 }
+h12 {
+    font-size: 40px;
+}
 
 
 
@@ -492,8 +492,10 @@ input[type=text], select {
     justify-content: left;
     letter-spacing: 0;
     font-family: 'Ruda', sans-serif;
-    font-size: small;
+    
     margin-left: 80px;
+    display: flex;
+    flex-direction: column;
 }
 
 .backgroundGRDC{
@@ -509,6 +511,77 @@ input[type=text], select {
 }
 .overlap3{
     background-color: #Ffffff;
-    height: 4150px;
+    height: 6150px;
+    padding-right: 50px;
+    
      
+}
+.smedia1 {
+    display: flex;
+    justify-content: end;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.casestudy img{
+    display: flex;
+    align-self: center;
+}
+.finalproject {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 40px;
+}
+h4 {
+    font-size: 40px;
+}
+h5 {
+    font-size: 40px;
+}
+h6 {
+    font-size: 40px;
+}
+h7 {
+    font-size: 40px;
+}
+h8 {
+    font-size: 40px;
+}
+h9 {
+    font-size: 40px;
+}
+h10 {
+    font-size: 40px;
+}
+h11 {
+    font-size: 40px;
+}
+h12 {
+    font-size: 40px;
+}
+.casestudy p {
+    font-size: 16px;
+}
+.wireframes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.sitemaps {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.USPersona {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
