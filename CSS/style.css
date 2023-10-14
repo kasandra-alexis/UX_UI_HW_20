@@ -412,6 +412,74 @@ input[type=text], select {
 h12 {
     font-size: 40px;
 }
+h13 {
+    font-size: 40px;
+}
+h14 {
+    font-size: 40px;
+}
+.GourM {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Affinity {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Empathy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ILike {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.FeatureP {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Storyboard {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.UJM {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.UserFlow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.INTVW {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.INTVWF {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.KeyIterated {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.GourmadeCS img{
+    display: flex;
+    align-self: center;
+}
+.GourmadeCS p {
+    font-size: 16px;
+}
 
 
 
