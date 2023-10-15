@@ -375,10 +375,10 @@ input[type=text], select {
 
 /* Gourmade */ 
 .GourmadeCS {
-    display: flexbox;
+    
     font-family: 'Ruda', sans-serif;
     color: black;
-    margin-left: 80px;
+    margin-left: 25px;
     margin-right: 40px;
 }
 
