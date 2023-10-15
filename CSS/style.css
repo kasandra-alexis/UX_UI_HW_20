@@ -56,11 +56,11 @@ p.kasandraf {
 .smedia {
     display: inline-block;
 }
-.socials {
+.socialshome {
     display: inline-block;
     height: 24px;
-    margin-left: 13px;
-    margin-top: 40px;
+    margin-left: 624px;
+    margin-top: 72px;
     padding-right: 15px;
     width: auto;
 }
@@ -200,13 +200,19 @@ p.kasandraf {
     padding-bottom: 40px;
 }
 
-.smedia {
+.smediac {
     display: inline-block;
     height: 24px;
-    margin-left: 13px;
+    margin-left: 960px;
+    right: 50px;
+}
+.socialsc {
+    display: inline-block;
+    height: 24px;
+    margin-left: 624px;
+    margin-top: 72px;
     padding-right: 15px;
     width: auto;
-    right: 50px;
 }
 .card-text {
     color: black;
@@ -221,10 +227,20 @@ p.kasandraf {
     margin-left: 25px;
     margin-top: 40px;
 }
-
+.User {
+    padding-bottom: 2s5px;
+}
 
 
 /* Work */ 
+.socials {
+    display: inline-block;
+    height: 24px;
+    margin-left: 13px;
+    margin-top: 40px;
+    padding-right: 15px;
+    width: auto;
+}
 .titlecontainer {
     display: flex;
     flex-direction: row;
@@ -318,6 +334,13 @@ width: 240px;
 
 }
 /* Contact */ 
+.titlecontain {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    margin-top: -79px;
+    position: relative;
+}
 .conactcontainer {
     margin-top: 20px;
 }
