@@ -550,17 +550,9 @@ h14 {
 .accordion-button {
         color: black;
 }
- .carousel-item {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
- }
- .carousel-indicators {
-    font-family: 'Ruda', sans-serif;
-    color: black;
-    border-color: #46905b;
- }
- .carousel {
+
+
+.carousel-caption {
     font-family: 'Ruda', sans-serif;
     color: black;
     border-color: #46905b;
