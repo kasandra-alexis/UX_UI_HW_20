@@ -206,11 +206,10 @@ p.kasandraf {
     margin-left: 960px;
     right: 50px;
 }
-.socialsc {
+.socialc {
     display: inline-block;
     height: 24px;
-    margin-left: 624px;
-    margin-top: 72px;
+    margin-top: 152px;
     padding-right: 15px;
     width: auto;
 }
@@ -512,7 +511,7 @@ h14 {
 /* Test */
 .overlap2{
     background-color: #Ffffff;
-    height: 9150px; 
+    height: 9400px; 
 }
 .cardcontainer {
     display:flex;
